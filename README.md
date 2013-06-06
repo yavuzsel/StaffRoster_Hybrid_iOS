@@ -1,0 +1,1 @@
+trying out AeroGear Hybrid with Apache Cordova. example StaffRoster app.
